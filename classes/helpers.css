@@ -1,0 +1,12 @@
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.circle
+{
+	border-radius: 50%;
+}
