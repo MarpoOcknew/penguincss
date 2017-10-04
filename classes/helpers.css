@@ -1,12 +1,7 @@
-.left {
-	float: left;
-}
+.left { float: left; }
 
-.right {
-	float: right;
-}
+.right { float: right; }
 
-.circle
-{
-	border-radius: 50%;
-}
+.circle { border-radius: 50%; }
+
+.flex { display: flex; }

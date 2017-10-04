@@ -11,8 +11,12 @@
 * Base
 * Helpers
 * Height
+* Height (em)
+* Height (rem)
 * Width
 * Width (%)
+* Width (em)
+* Width (rem)
 * Margin
 * Margin Left
 * Margin Right
@@ -24,3 +28,17 @@
 * Padding Top
 * Padding Bottom
 * Radius
+
+### Future Classes ###
+
+* Box Shadow
+* Margin / Padding % Classes
+* Margin / Padding em Classes
+* Margin / Padding rem Classes
+
+### Bugfixes ###
+
+* Multiples of 10 have missing 0 at the end
+* Change Radius to match new class naming convention
+* Add auto to existing classes
+* Add !important to classes

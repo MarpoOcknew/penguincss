@@ -1,2 +1,4 @@
 penguin { display: block; }
-html, body { padding: 0; margin: 0; width: 100%; height: 100%; }
+.penguin-blue { color: #124578; }
+.penguin-yellow { color: #FEC503; }
+html, body { padding: 0; margin: 0; width: 100%; height: 100%; overflow-x: hidden; }
