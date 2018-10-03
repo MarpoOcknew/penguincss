@@ -1,6 +1,7 @@
 # README #
 
 ## Large update coming soon with v1 ##
+Will move over to SCSS to cut down on bloat. Compiled versions will still be uploaded for use.
 
 ### Contribution guidelines ###
 
